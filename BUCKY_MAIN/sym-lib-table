@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-DEVKITC-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "BUCKY_MAIN")(type "KiCad")(uri "${KIPRJMOD}/lib/BUCKY_MAIN.kicad_sym")(options "")(descr ""))
+)
