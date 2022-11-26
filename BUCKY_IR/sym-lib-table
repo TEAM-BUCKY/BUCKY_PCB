@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "BUCKY_IR")(type "KiCad")(uri "${KIPRJMOD}/lib/BUCKY_IR.kicad_sym")(options "")(descr ""))
+)
