@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "BUCKY_MOTOR_DRIVER")(type "KiCad")(uri "${KIPRJMOD}/lib/BUCKY_MOTOR_DRIVER.kicad_sym")(options "")(descr ""))
+)
