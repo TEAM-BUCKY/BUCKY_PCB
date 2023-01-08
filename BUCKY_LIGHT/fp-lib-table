@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "BUCKY_LIGHT")(type "KiCad")(uri "${KIPRJMOD}/BUCKY_LIGHT.pretty")(options "")(descr ""))
+)
