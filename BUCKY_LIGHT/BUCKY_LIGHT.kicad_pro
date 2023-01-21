@@ -399,8 +399,8 @@
       "idf": "",
       "netlist": "BUCKY_LIGHT.net",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "BUCKY_LIGHT.step",
+      "vrml": "BUCKY_LIGHT.wrl"
     },
     "page_layout_descr_file": ""
   },

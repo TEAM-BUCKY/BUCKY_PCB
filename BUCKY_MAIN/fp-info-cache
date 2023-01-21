@@ -1,4 +1,4 @@
-19744724236964918
+19748123183219922
 BUCKY_MAIN
 G2-24v13
 
@@ -6,6 +6,13 @@ G2-24v13
 0
 20
 12
+BUCKY_MAIN
+IFX9201SG_BO
+
+
+0
+8
+8
 BUCKY_MAIN
 MODULE_ESP32-DEVKITC-32D
 
@@ -68071,6 +68078,13 @@ Package_SIP
 Sanyo_STK4xx-15_78.0x8.0mm_P2.54mm
 Sanyo SIP-15, 78.0mm x 8.0mm bosy size, STK-437E STK-439E STK-441E STK-443E (http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf)
 Sanyo SIP-15
+0
+15
+15
+Package_SO
+BSOP-12EP_6.4x7.5mm
+
+
 0
 15
 15

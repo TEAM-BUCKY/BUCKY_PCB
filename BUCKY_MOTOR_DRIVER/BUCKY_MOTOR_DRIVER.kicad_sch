@@ -621,7 +621,7 @@
     (property "Reference" "C4" (id 0) (at 128.651 83.6203 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "33n" (id 1) (at 128.651 86.1572 0)
+    (property "Value" "10n" (id 1) (at 128.651 86.1572 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (id 2) (at 126.6952 88.265 0)
@@ -675,7 +675,7 @@
     (property "Reference" "C3" (id 0) (at 98.171 83.6203 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "33n" (id 1) (at 98.171 86.1572 0)
+    (property "Value" "10n" (id 1) (at 98.171 86.1572 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (id 2) (at 96.2152 88.265 0)
@@ -789,19 +789,10 @@
       (reference "C2") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/b8e4c042-3cfb-471f-8ae0-2202a4ec8cc5"
-      (reference "C3") (unit 1) (value "33n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C3") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/5cbbabcd-2a05-4d4f-b19a-2e1b56abeaab"
-      (reference "C4") (unit 1) (value "33n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
-    (path "/2f8c3cec-43a9-410d-ba41-e7cf91c88f62"
-      (reference "J1") (unit 1) (value "P_INPUTS") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
-    )
-    (path "/63479a35-1fbd-40f9-ac1b-e476935472f8"
-      (reference "J2") (unit 1) (value "INPUTS") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
-    )
-    (path "/0ff5c0a4-d8f6-4f10-b5b7-2fc797ee6059"
-      (reference "J3") (unit 1) (value "OUT") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "C4") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/142e849a-bfa2-47b1-88cc-63e1c177c828"
       (reference "U1") (unit 1) (value "IFX9201SG") (footprint "Package_SO:Infineon_PG-DSO-12-11_ThermalVias")

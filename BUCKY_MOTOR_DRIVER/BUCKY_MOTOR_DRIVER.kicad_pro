@@ -124,6 +124,7 @@
         0.256,
         0.512,
         0.61,
+        0.75,
         1.024,
         1.512,
         2.048
@@ -132,6 +133,18 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.4,
+          "drill": 0.2
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": false,
