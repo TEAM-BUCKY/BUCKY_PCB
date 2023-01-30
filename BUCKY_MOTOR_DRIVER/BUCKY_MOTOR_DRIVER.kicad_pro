@@ -400,7 +400,7 @@
       "idf": "",
       "netlist": "BUCKY_MOTOR_DRIVER.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../BUCKY_MAIN/lib/BUCKY_MOTOR_DRIVER.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
