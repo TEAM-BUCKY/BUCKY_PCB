@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "BUCKY_LIGHT")(type "KiCad")(uri "${KIPRJMOD}/BUCKY_LIGHT.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "BUCKY_LIGHT")(type "KiCad")(uri "${KIPRJMOD}/lib/BUCKY_LIGHT.pretty")(options "")(descr ""))
 )
