@@ -1,3 +1,4 @@
 (fp_lib_table
+  (version 7)
   (lib (name "BUCKY_MAIN")(type "KiCad")(uri "${KIPRJMOD}/lib/BUCKY_MAIN.pretty")(options "")(descr ""))
 )

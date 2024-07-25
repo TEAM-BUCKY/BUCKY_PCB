@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "BUCKY_DRIVE")(type "KiCad")(uri "${KIPRJMOD}/lib/BUCKY_DRIVE.pretty")(options "")(descr ""))
+)
