@@ -18,3 +18,6 @@ BUCKY_POWER/gerbers
 
 BUCKY_TOF/BUCKY_TOF-backups
 BUCKY_TOF/gerbers
+
+*.lck
+*-backups
