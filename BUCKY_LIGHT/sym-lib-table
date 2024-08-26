@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ANALOG_COMP")(type "KiCad")(uri "${KIPRJMOD}/lib/ANALOG_COMP.kicad_sym")(options "")(descr ""))
+  (lib (name "LIGHT_CONN")(type "KiCad")(uri "${KIPRJMOD}/lib/LIGHT_CONN.kicad_sym")(options "")(descr ""))
+)
