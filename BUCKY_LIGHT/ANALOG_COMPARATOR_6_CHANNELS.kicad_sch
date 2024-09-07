@@ -1171,7 +1171,7 @@
 		(uuid de2f5415-18e4-4942-b9e4-108b57daf17a)
 	)
 	(label "AREF"
-		(at 86.36 149.86 0)
+		(at 185.42 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1179,7 +1179,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "07395f60-7528-4c47-a983-e61add15e609")
+		(uuid "11b6bdb6-13f3-44a4-b6a2-8e1a5da70f22")
 	)
 	(label "AREF"
 		(at 38.1 62.23 180)
@@ -1190,29 +1190,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "36410381-4d8b-4092-b876-4ed28bc5eda9")
-	)
-	(label "AREF"
-		(at 88.9 62.23 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "758cdd5b-c712-49c3-bcf7-c4f183c0e550")
-	)
-	(label "AREF"
-		(at 185.42 62.23 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "861869ce-2754-437b-9569-dc70f5ecd405")
+		(uuid "2e5f6d9a-0513-4d57-9049-dd3577ab2d06")
 	)
 	(label "AREF"
 		(at 121.92 113.03 0)
@@ -1223,7 +1201,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "b4fbea24-d4b9-4729-9b3b-9734aab30669")
+		(uuid "5efee490-dc03-4126-bfe4-7b923d0a5745")
 	)
 	(label "AREF"
 		(at 35.56 149.86 180)
@@ -1234,7 +1212,18 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "d99c6487-199a-410d-81a0-8aa9e8825780")
+		(uuid "6fef6572-a365-476c-9085-0e0dae3c3e13")
+	)
+	(label "AREF"
+		(at 86.36 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e229005d-6eab-4557-a21f-3176bdeb8dfc")
 	)
 	(label "AREF"
 		(at 134.62 62.23 180)
@@ -1245,43 +1234,18 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "f79ed5c5-c9bd-483a-b299-aba4729c4192")
+		(uuid "eac00168-cdff-4e54-b9ae-552c6ade2fec")
 	)
-	(hierarchical_label "I3"
-		(shape input)
-		(at 121.92 59.69 180)
+	(label "AREF"
+		(at 88.9 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "44b90c0a-b1fe-4cb8-8272-057a2c62b775")
-	)
-	(hierarchical_label "O2"
-		(shape output)
-		(at 25.4 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "56f1af11-9b47-46fa-b072-7eceed84271d")
-	)
-	(hierarchical_label "O5"
-		(shape output)
-		(at 99.06 144.78 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5cc58b0b-4636-4f36-80a8-a6f24add86c7")
+		(uuid "fdce191f-c47d-4ca3-9e94-3f2eab137600")
 	)
 	(hierarchical_label "I6"
 		(shape input)
@@ -1293,23 +1257,11 @@
 			)
 			(justify left)
 		)
-		(uuid "662e5b8a-d653-4439-9081-1d91f5933a74")
+		(uuid "1a1942f5-c46a-4a9f-a1ca-b0cd254bc67e")
 	)
-	(hierarchical_label "O6"
-		(shape output)
-		(at 22.86 154.94 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "68b5a874-f962-4e2d-a3f0-41f42cfa3d9b")
-	)
-	(hierarchical_label "I1"
+	(hierarchical_label "I3"
 		(shape input)
-		(at 25.4 59.69 180)
+		(at 121.92 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1317,19 +1269,7 @@
 			)
 			(justify right)
 		)
-		(uuid "78f615c8-788c-43d9-8ada-9737bdeab799")
-	)
-	(hierarchical_label "REF"
-		(shape input)
-		(at 116.84 113.03 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8474d4bd-1b0b-4be7-a286-be5e27cfb422")
+		(uuid "2cb5800e-be73-46d1-8606-b45ad8fb536d")
 	)
 	(hierarchical_label "I2"
 		(shape input)
@@ -1341,35 +1281,11 @@
 			)
 			(justify left)
 		)
-		(uuid "926ee7ed-dc33-4d8e-8b65-7067fadae0a8")
+		(uuid "2dabe3cc-e970-4433-87c1-36b18f8c3147")
 	)
-	(hierarchical_label "O1"
-		(shape output)
-		(at 101.6 57.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ad6674ff-8ab1-40ff-acf1-9e0e057c126a")
-	)
-	(hierarchical_label "I4"
+	(hierarchical_label "REF"
 		(shape input)
-		(at 198.12 64.77 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "af8a9aad-5977-443b-8179-b264480e0465")
-	)
-	(hierarchical_label "O4"
-		(shape output)
-		(at 121.92 67.31 180)
+		(at 116.84 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1377,19 +1293,7 @@
 			)
 			(justify right)
 		)
-		(uuid "be37b7dd-94f7-40d7-82f7-af049272924f")
-	)
-	(hierarchical_label "I5"
-		(shape input)
-		(at 22.86 147.32 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ea4afaab-ce40-4d73-9ebb-4f6beb221744")
+		(uuid "305422d9-19e7-4378-922a-6b1b25f8fbe2")
 	)
 	(hierarchical_label "O3"
 		(shape output)
@@ -1401,7 +1305,103 @@
 			)
 			(justify left)
 		)
-		(uuid "ff04fe97-9bb9-4de6-95cb-8bed79f57143")
+		(uuid "41c173d0-2e2f-401a-99fe-c1da428be888")
+	)
+	(hierarchical_label "I5"
+		(shape input)
+		(at 22.86 147.32 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8a26e44a-3e12-47c1-a51f-6bb19c9132d1")
+	)
+	(hierarchical_label "I1"
+		(shape input)
+		(at 25.4 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "97c4c387-82a9-4a5b-ba63-2d957103a20a")
+	)
+	(hierarchical_label "O1"
+		(shape output)
+		(at 101.6 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "994989d5-a7db-4efc-8ee1-73b0a81cf866")
+	)
+	(hierarchical_label "I4"
+		(shape input)
+		(at 198.12 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c41ae2c-4f32-4342-94e5-d87041b3ce0d")
+	)
+	(hierarchical_label "O2"
+		(shape output)
+		(at 25.4 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a32bf990-8580-4d92-b115-53e901cc8bcd")
+	)
+	(hierarchical_label "O6"
+		(shape output)
+		(at 22.86 154.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cae1d1e8-abaa-488a-9e2c-7be2da26f685")
+	)
+	(hierarchical_label "O5"
+		(shape output)
+		(at 99.06 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "df7047a5-cd79-4f50-8f22-1a7a7d1a6274")
+	)
+	(hierarchical_label "O4"
+		(shape output)
+		(at 121.92 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e5237248-e344-4ccd-8723-5401a708345a")
 	)
 	(symbol
 		(lib_id "Device:LED")
@@ -1413,7 +1413,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "044e9f60-ed86-4f68-82b4-ef99848a6206")
-		(property "Reference" "LI1"
+		(property "Reference" "LI10"
 			(at 99.3775 49.53 0)
 			(effects
 				(font
@@ -1429,7 +1429,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_PLCC-2_3.4x3.0mm_AK"
 			(at 97.79 57.15 0)
 			(effects
 				(font
@@ -1457,19 +1457,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "ec683670-4733-4eed-b74c-d3a2d40df462")
+			(uuid "fac0eaeb-1eeb-41e6-b13d-48098a90e95f")
 		)
 		(pin "2"
-			(uuid "46e3b542-2b1a-4e63-b17d-258a03eecd8a")
+			(uuid "66bf341d-8106-422f-9483-48ad4306fd55")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "LI1")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "LI10")
 					(unit 1)
 				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "LI7")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "LI4")
 					(unit 1)
 				)
 			)
@@ -1485,7 +1485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a49cfe2-5513-4811-ada6-f05ad301083e")
-		(property "Reference" "LI3"
+		(property "Reference" "LI12"
 			(at 195.8975 49.53 0)
 			(effects
 				(font
@@ -1501,7 +1501,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_PLCC-2_3.4x3.0mm_AK"
 			(at 194.31 57.15 0)
 			(effects
 				(font
@@ -1529,19 +1529,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "666d12c9-5bfc-42b6-8226-c6cba4adeeb9")
+			(uuid "bf769ff8-67e9-4a6b-81b0-640f982b7b9b")
 		)
 		(pin "2"
-			(uuid "32210858-0684-42fd-aee8-609fb342d7ff")
+			(uuid "6b16b328-ed79-402e-b201-532a7bc48218")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "LI3")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "LI12")
 					(unit 1)
 				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "LI9")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "LI6")
 					(unit 1)
 				)
 			)
@@ -1549,16 +1549,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 35.56 152.4 270)
+		(at 35.56 144.78 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "26f758b2-4607-4ee0-a4fa-52e6d32daac9")
-		(property "Reference" "#PWR029"
-			(at 29.21 152.4 0)
+		(uuid "0e8a0fb6-afb1-4d8f-97f8-e5736dcc8013")
+		(property "Reference" "#PWR059"
+			(at 29.21 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1567,7 +1567,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 31.75 152.3999 90)
+			(at 31.75 144.7799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1576,7 +1576,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 152.4 0)
+			(at 35.56 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1585,7 +1585,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 152.4 0)
+			(at 35.56 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1594,7 +1594,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 35.56 152.4 0)
+			(at 35.56 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1603,16 +1603,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "4581e71f-43ec-46b6-9bd0-7c66c9195b88")
+			(uuid "e9933900-ad8d-4c2a-8fa9-b9e0f39fb45e")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR029")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR059")
 					(unit 1)
 				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR068")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -1620,16 +1620,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 134.62 64.77 270)
+		(at 86.36 154.94 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3e8f025b-7f9e-4ded-b5b8-9d1daf126c91")
-		(property "Reference" "#PWR014"
-			(at 128.27 64.77 0)
+		(uuid "18ded862-abb9-46f9-9674-3bc98cba15ec")
+		(property "Reference" "#PWR064"
+			(at 92.71 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1638,7 +1638,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 64.7699 90)
+			(at 90.17 154.9399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1647,7 +1647,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 64.77 0)
+			(at 86.36 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1656,7 +1656,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 64.77 0)
+			(at 86.36 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1665,7 +1665,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 64.77 0)
+			(at 86.36 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1674,247 +1674,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "78aaaf79-2d66-4d1f-94d1-7bc47fd3d8d7")
+			(uuid "bb3b6d90-f159-4902-ab7f-632b8ac8a33d")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR014")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
 					(reference "#PWR064")
 					(unit 1)
 				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 88.9 59.69 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4241dcd9-00ec-4bb5-b90e-6151425ace7c")
-		(property "Reference" "#PWR011"
-			(at 85.09 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 92.71 59.6899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 88.9 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.9 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 88.9 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f78fc87a-2008-4a9d-98d1-9fd50fd8d7f2")
-		)
-		(instances
-			(project "BUCKY_LIGHT"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR011")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR061")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ANALOG_COMP:LM319N_NOPB")
-		(at 45.72 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4868d58e-27ff-4f30-a256-0d1f7eecf80b")
-		(property "Reference" "IC1"
-			(at 63.5 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM319N_NOPB"
-			(at 63.5 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DIP794W56P254L1905H533Q14N"
-			(at 77.47 146.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/LM319-N"
-			(at 77.47 246.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "IC,Comparator,dual,DIP14,LM319N/NOPB"
-			(at 45.72 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "5.334"
-			(at 77.47 446.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "926-LM319N/NOPB"
-			(at 77.47 546.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM319N-NOPB?qs=X1J7HmVL2ZFdJysu8dbOsA%3D%3D"
-			(at 77.47 646.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 77.47 746.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "LM319N/NOPB"
-			(at 77.47 846.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "73f3c140-d7a8-4cdf-a891-0313d9d705a3")
-		)
-		(pin "10"
-			(uuid "d8f251d8-5f0a-44d2-8ecb-ff792f604c31")
-		)
-		(pin "13"
-			(uuid "cf5f72b0-1468-4b34-83da-77ae1fa2605d")
-		)
-		(pin "14"
-			(uuid "3b36856a-dfeb-42b6-84bd-0be459e08eaa")
-		)
-		(pin "12"
-			(uuid "3940d1b7-b83f-4400-bd0e-c7dc834d41da")
-		)
-		(pin "4"
-			(uuid "2f52dbac-3f89-40d5-b9b7-710ecd1f6980")
-		)
-		(pin "7"
-			(uuid "761fcf8c-9193-426b-a003-622b3290e996")
-		)
-		(pin "3"
-			(uuid "47e42bfa-bdb9-49dd-b296-be5e9b066cc1")
-		)
-		(pin "6"
-			(uuid "f73ba0b8-6c32-4a5e-ada9-3296f1604316")
-		)
-		(pin "9"
-			(uuid "a83dbf16-63c2-46b0-a365-d1e9cea195ed")
-		)
-		(pin "2"
-			(uuid "6e1231e8-b88e-4da4-be49-db4103fda22c")
-		)
-		(pin "5"
-			(uuid "391f2154-6dc4-4b31-8e8d-f48ecb4cf76c")
-		)
-		(pin "1"
-			(uuid "ddbce2f5-3c57-4260-883b-725e75e50fc8")
-		)
-		(pin "11"
-			(uuid "8cd0c7e0-816c-4ee0-aff0-b7ab8099de0d")
-		)
-		(instances
-			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "IC1")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "IC6")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -1929,8 +1698,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "55029490-58d2-48b9-8284-cfbecd746f80")
-		(property "Reference" "IC3"
+		(uuid "1ce33477-7f43-4b5b-b28d-b55af19599f1")
+		(property "Reference" "IC6"
 			(at 60.96 132.08 0)
 			(effects
 				(font
@@ -1946,7 +1715,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DIP794W56P254L1905H533Q14N"
+		(property "Footprint" "BUCKY_LIGHT:ANALOG_COMP"
 			(at 74.93 234.62 0)
 			(effects
 				(font
@@ -2026,72 +1795,108 @@
 			)
 		)
 		(pin "8"
-			(uuid "02898ce8-2f59-48aa-9a7e-b82f7ca50fc2")
+			(uuid "b159281d-a4aa-46e6-a52e-16c540db4f60")
 		)
 		(pin "10"
-			(uuid "b0d9e100-352e-4ad2-8acb-0c3b402ac6f2")
+			(uuid "1549e1a2-fde1-41f6-b610-6af59050c6aa")
 		)
 		(pin "13"
-			(uuid "0041844d-9c73-4095-b55d-e59fbb48a372")
+			(uuid "916ce2d4-eb3c-4fe3-8edd-657ee53911e9")
 		)
 		(pin "14"
-			(uuid "b5698f10-a105-4eb9-bcec-7aca424a5129")
+			(uuid "ed12191b-af01-476e-a2cf-d0a13a66c031")
 		)
 		(pin "12"
-			(uuid "168605d9-0742-4802-ba4f-0036db2b025d")
+			(uuid "5170994c-a036-4d97-82f3-8854378269e0")
 		)
 		(pin "4"
-			(uuid "71e8ac52-1f34-4929-9037-19c28b75bc29")
+			(uuid "eee7a082-aa2b-4777-9aee-4f3095209f97")
 		)
 		(pin "7"
-			(uuid "10c2427a-2352-4d56-a846-85488c256ed8")
+			(uuid "933b0bf1-eff8-44c2-a6e1-ee3c2cea2627")
 		)
 		(pin "3"
-			(uuid "f0cbd077-aafe-4063-ac8c-2d6adf1e3638")
+			(uuid "64fb2361-df19-4eec-864c-7bffde43f739")
 		)
 		(pin "6"
-			(uuid "4233d10c-f340-448f-a5ba-2a447e8acf4f")
+			(uuid "3eeed26c-a91c-493f-a57d-6bff1dd2e874")
 		)
 		(pin "9"
-			(uuid "ff72937e-2a99-43c7-8e42-53fe62f2ed92")
+			(uuid "af2c79bc-cd93-477f-ba83-192f69bc0e1c")
 		)
 		(pin "2"
-			(uuid "4d006174-b656-4f4c-aecc-78a64b8c5343")
+			(uuid "68d55f1b-c518-46b4-9e06-5efbe7267879")
 		)
 		(pin "5"
-			(uuid "1047c8e3-b8d0-4f71-a784-dfbaed0b281d")
+			(uuid "902318a3-3bf2-440d-a2fe-98e2bdcbb5e1")
 		)
 		(pin "1"
-			(uuid "d198d291-b36e-4082-bd5a-b4e9ab2ad512")
+			(uuid "fee162cb-5840-494c-923d-1acc371a949a")
 		)
 		(pin "11"
-			(uuid "17ec5446-ccf2-4c5c-8e76-1fe10d74f811")
+			(uuid "72706cd9-b7a5-42a7-81a4-228b5df1238a")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "IC3")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "IC6")
 					(unit 1)
 				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "IC8")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "IC2")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 38.1 57.15 270)
+		(lib_id "ANALOG_COMP:LM319N_NOPB")
+		(at 45.72 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "61891795-58bd-4082-a09a-f47d87283103")
-		(property "Reference" "#PWR09"
-			(at 31.75 57.15 0)
+		(uuid "24a50593-951d-415b-8079-7ac3fe14d19a")
+		(property "Reference" "IC7"
+			(at 63.5 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM319N_NOPB"
+			(at 63.5 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BUCKY_LIGHT:ANALOG_COMP"
+			(at 77.47 146.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/LM319-N"
+			(at 77.47 246.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC,Comparator,dual,DIP14,LM319N/NOPB"
+			(at 45.72 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2099,338 +1904,106 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 34.29 57.1499 90)
+		(property "Height" "5.334"
+			(at 77.47 446.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 38.1 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 38.1 57.15 0)
+		(property "Mouser Part Number" "926-LM319N/NOPB"
+			(at 77.47 546.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 57.15 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM319N-NOPB?qs=X1J7HmVL2ZFdJysu8dbOsA%3D%3D"
+			(at 77.47 646.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "34eaacf1-2605-4593-93cc-4f91039bdf88")
-		)
-		(instances
-			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR09")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR059")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 29.21 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "86dc1b9a-922b-4b9a-80c0-66a01b2a02d5")
-		(property "Reference" "LI2"
-			(at 27.6225 60.96 0)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 77.47 746.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Value" "LED"
-			(at 27.6225 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 29.21 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 29.21 67.31 0)
+		(property "Manufacturer_Part_Number" "LM319N/NOPB"
+			(at 77.47 846.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 29.21 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "8"
+			(uuid "4f156f64-fbec-4712-a509-62723d165788")
 		)
-		(pin "1"
-			(uuid "0d9a4b14-f88c-48c9-8eb5-f73e7a1949b1")
+		(pin "10"
+			(uuid "f8aef9d1-4583-44fc-b8d6-13c62c7d4a4e")
+		)
+		(pin "13"
+			(uuid "844b2a94-fc55-412c-bd05-8cdb3f57169c")
+		)
+		(pin "14"
+			(uuid "f09a0589-02fb-4b4e-bb7a-b5e80567ff22")
+		)
+		(pin "12"
+			(uuid "73e12d1b-b83f-4803-bbce-e8d523b90b56")
+		)
+		(pin "4"
+			(uuid "6f15c619-3451-414c-8608-08868b05faed")
+		)
+		(pin "7"
+			(uuid "77658946-8922-4115-a51a-e8e3688a4bdf")
+		)
+		(pin "3"
+			(uuid "0fdb16f6-2478-48fb-8857-ae0983319f3b")
+		)
+		(pin "6"
+			(uuid "d1ad4f7c-dd94-4a40-b939-d9514584201f")
+		)
+		(pin "9"
+			(uuid "0569ebcf-7a0d-4cd3-883d-71d3ca226b75")
 		)
 		(pin "2"
-			(uuid "7e385031-1e35-4d6b-adb9-43b5532203fd")
+			(uuid "e38041a0-3706-4114-9c28-8e05a5f8a4ea")
 		)
-		(instances
-			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "LI2")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "LI8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 134.62 57.15 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d1ab1f1-6700-4708-be42-049c01586a04")
-		(property "Reference" "#PWR013"
-			(at 128.27 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 130.81 57.1499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 134.62 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 134.62 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "5"
+			(uuid "790b998c-b3af-4bec-8f62-2255f42363a2")
 		)
 		(pin "1"
-			(uuid "b4dff026-2ac3-4b13-833f-251da3cb3e7a")
+			(uuid "b190fade-908a-4893-9f34-0550008031a2")
+		)
+		(pin "11"
+			(uuid "c166306c-ea64-4845-b562-486ed5ed640f")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "IC7")
+					(unit 1)
+				)
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR013")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR063")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 86.36 147.32 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8e3135c6-4fe0-4d09-b868-75002ad5d12c")
-		(property "Reference" "#PWR030"
-			(at 82.55 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 90.17 147.3199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 86.36 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0b766928-12ca-45e5-b435-bead6ba860f1")
-		)
-		(instances
-			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR030")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR069")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 86.36 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "92b71284-7020-46eb-9b17-4be8aed995e1")
-		(property "Reference" "#PWR031"
-			(at 92.71 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 90.17 154.9399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "41f79255-f245-44f1-b78b-0a4ae39eaa98")
-		)
-		(instances
-			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR031")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR070")
+					(reference "IC3")
 					(unit 1)
 				)
 			)
@@ -2445,8 +2018,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "932f0b7f-5adc-4bce-8c5c-a51ce6fffa40")
-		(property "Reference" "#PWR012"
+		(uuid "5d17a4ae-4a0d-4a12-aa01-e58d19204a5e")
+		(property "Reference" "#PWR066"
 			(at 95.25 67.31 0)
 			(effects
 				(font
@@ -2492,88 +2065,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "47d8dfc4-ae2d-4036-9946-7338a8a71170")
+			(uuid "eec12dd2-9a05-48b9-8919-d2d26740fb8a")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR066")
+					(unit 1)
+				)
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
 					(reference "#PWR012")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR062")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 125.73 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e38031f-8301-4daf-8e9b-c7ccca2fe30d")
-		(property "Reference" "LI4"
-			(at 124.1425 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 124.1425 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 125.73 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 125.73 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cb8a6ef1-2411-4899-9d9b-34277ff56a96")
-		)
-		(pin "2"
-			(uuid "5da4d819-1b80-4d29-be5e-8f1844461f0d")
-		)
-		(instances
-			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "LI4")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "LI10")
 					(unit 1)
 				)
 			)
@@ -2581,16 +2082,16 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 185.42 59.69 270)
+		(at 86.36 147.32 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a0666562-c2bb-4761-bc07-99dd95291b3b")
-		(property "Reference" "#PWR015"
-			(at 181.61 59.69 0)
+		(uuid "5d350fd4-08b2-45d1-9760-7f0434efcb00")
+		(property "Reference" "#PWR063"
+			(at 82.55 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2599,7 +2100,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 189.23 59.6899 90)
+			(at 90.17 147.3199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2608,7 +2109,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 59.69 0)
+			(at 86.36 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2617,7 +2118,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 59.69 0)
+			(at 86.36 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2626,7 +2127,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 185.42 59.69 0)
+			(at 86.36 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2635,16 +2136,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "8aac7a7d-6779-49bf-9ba5-cb01db67d4c8")
+			(uuid "e5285abc-e21a-4205-a6bc-1de8af82d9de")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR015")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR063")
 					(unit 1)
 				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR065")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -2652,16 +2153,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 35.56 144.78 270)
+		(at 134.62 64.77 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d10b8daa-30f3-4dde-836b-aced6d283450")
-		(property "Reference" "#PWR017"
-			(at 29.21 144.78 0)
+		(uuid "77a245b2-a594-4838-92a5-b9c1d6d61842")
+		(property "Reference" "#PWR068"
+			(at 128.27 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2670,7 +2171,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 31.75 144.7799 90)
+			(at 130.81 64.7699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2679,7 +2180,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 144.78 0)
+			(at 134.62 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2688,7 +2189,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 144.78 0)
+			(at 134.62 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2697,7 +2198,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 35.56 144.78 0)
+			(at 134.62 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2706,16 +2207,88 @@
 			)
 		)
 		(pin "1"
-			(uuid "79cc69eb-606f-4e00-b9ed-d4c1e8e5dec9")
+			(uuid "ddad3f4b-9e9b-46a0-84de-bbc716208174")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR017")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR068")
 					(unit 1)
 				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR067")
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 29.21 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "86dc1b9a-922b-4b9a-80c0-66a01b2a02d5")
+		(property "Reference" "LI8"
+			(at 27.6225 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 27.6225 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_PLCC-2_3.4x3.0mm_AK"
+			(at 29.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 29.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 29.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4bb12b3e-8228-4e9c-be75-65f6fcecbc08")
+		)
+		(pin "2"
+			(uuid "e00a9f61-bbb5-4a4f-b2f8-0f3d59c554d4")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "LI8")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "LI2")
 					(unit 1)
 				)
 			)
@@ -2730,8 +2303,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "dcd895fe-d4dd-4405-91b2-c0fd845357de")
-		(property "Reference" "IC2"
+		(uuid "86dc1f25-2bfd-4869-b2b1-d8e73972f9fc")
+		(property "Reference" "IC8"
 			(at 160.02 44.45 0)
 			(effects
 				(font
@@ -2747,7 +2320,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DIP794W56P254L1905H533Q14N"
+		(property "Footprint" "BUCKY_LIGHT:ANALOG_COMP"
 			(at 173.99 146.99 0)
 			(effects
 				(font
@@ -2827,126 +2400,55 @@
 			)
 		)
 		(pin "8"
-			(uuid "72b7be04-8aa1-4a53-a765-0f9805f44572")
+			(uuid "867fab63-02be-4f9d-a58d-7b5c5a47c67e")
 		)
 		(pin "10"
-			(uuid "e151edca-866d-4098-9a3f-9f7661ecccc8")
+			(uuid "0cb91afc-fe9b-41ab-9e2d-1e6b17224712")
 		)
 		(pin "13"
-			(uuid "388815d5-91fe-444b-9b3b-6ae270c6c94e")
+			(uuid "eff3cd04-dbf9-4bbb-91d1-698cc6158765")
 		)
 		(pin "14"
-			(uuid "e873d218-ab5a-4e9e-b9d8-703c88adbd15")
+			(uuid "036bec1a-4873-46cc-86a6-299756821c8a")
 		)
 		(pin "12"
-			(uuid "4ab1aaf1-7226-4b64-a38f-0dec28ece633")
+			(uuid "44cda007-f627-4f76-9bf0-5f0473418bc7")
 		)
 		(pin "4"
-			(uuid "5a14eb8d-56b7-44e4-a6e4-9f374b18966b")
+			(uuid "0f3f8de9-4bd7-46a8-ad5f-676707fc310f")
 		)
 		(pin "7"
-			(uuid "996472a8-667d-4fc0-a70b-d7bf3f397d5f")
+			(uuid "c918a104-64e6-43aa-8759-f21779342ca5")
 		)
 		(pin "3"
-			(uuid "322d99e1-2509-4af7-837e-cbd23c7cd2ee")
+			(uuid "09b90558-f9f0-4ecf-8879-32dc66ca489f")
 		)
 		(pin "6"
-			(uuid "d32a6bf2-0e51-4673-84ba-9b3bda0873fc")
+			(uuid "3a081a49-b579-4501-8eb4-d39d69c0921f")
 		)
 		(pin "9"
-			(uuid "3992d4dc-91f1-430b-ab7d-470680d14caf")
+			(uuid "e5f67749-1f5a-4753-a373-9900d88da49e")
 		)
 		(pin "2"
-			(uuid "40891840-1d33-49c3-a615-57e91f903cee")
+			(uuid "fb580554-34ec-4af9-9f2c-f011d8fe2251")
 		)
 		(pin "5"
-			(uuid "9d5733b3-f4db-4529-9a63-d22e1b396c11")
+			(uuid "a27a1b61-2a9d-4de4-a40d-b1de2ba6ff48")
 		)
 		(pin "1"
-			(uuid "9dd8ddf4-29d3-428e-bed3-36f4134bcd0a")
+			(uuid "da740467-9ef4-45e5-994f-f41ad91f3c5c")
 		)
 		(pin "11"
-			(uuid "6fd3da96-5696-42f4-b3bf-3bedb3279d34")
+			(uuid "1722cf3f-6508-4bae-9df2-65a665e7a508")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "IC8")
+					(unit 1)
+				)
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "IC2")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "IC7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 38.1 64.77 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ebca42e0-46dc-4e3b-a00c-9394fc137ae2")
-		(property "Reference" "#PWR010"
-			(at 31.75 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 34.29 64.7699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 38.1 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.1 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "885daab4-5118-4760-8c41-c140f2ca2859")
-		)
-		(instances
-			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "#PWR010")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR060")
+					(reference "IC4")
 					(unit 1)
 				)
 			)
@@ -2954,16 +2456,16 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 95.25 144.78 180)
+		(at 125.73 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f0b1690c-3a72-4a3b-9a53-0b1e49bebde2")
-		(property "Reference" "LI5"
-			(at 96.8375 137.16 0)
+		(uuid "9e38031f-8301-4daf-8e9b-c7ccca2fe30d")
+		(property "Reference" "LI11"
+			(at 124.1425 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2971,15 +2473,15 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.8375 139.7 0)
+			(at 124.1425 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 95.25 144.78 0)
+		(property "Footprint" "LED_SMD:LED_PLCC-2_3.4x3.0mm_AK"
+			(at 125.73 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2988,7 +2490,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 144.78 0)
+			(at 125.73 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2997,7 +2499,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 95.25 144.78 0)
+			(at 125.73 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3006,91 +2508,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "cae92eab-98c5-4241-87d0-5d4ef5744013")
+			(uuid "08ac3882-2f12-4ba4-be22-d53efdbb412f")
 		)
 		(pin "2"
-			(uuid "e42b5725-d6b6-4978-85bc-2bef1ade1c9f")
+			(uuid "14652968-9b28-47d9-8248-9763505e670c")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "LI5")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
 					(reference "LI11")
 					(unit 1)
 				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 26.67 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f402ea8c-b3f0-45bd-84c2-447d40254979")
-		(property "Reference" "LI6"
-			(at 25.0825 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 25.0825 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 26.67 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 26.67 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 26.67 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cd86b264-84c0-4003-aa28-98b4c42ccf03")
-		)
-		(pin "2"
-			(uuid "1570d587-d53c-4c78-bc96-72c4d479c6a8")
-		)
-		(instances
-			(project "BUCKY_LIGHT"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
-					(reference "LI6")
-					(unit 1)
-				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "LI12")
+					(reference "LI5")
 					(unit 1)
 				)
 			)
@@ -3105,8 +2535,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f68ff031-457f-4ef6-9cbd-65e21ae24070")
-		(property "Reference" "#PWR016"
+		(uuid "af18966d-b389-41ea-83bf-981d41ab900e")
+		(property "Reference" "#PWR070"
 			(at 191.77 67.31 0)
 			(effects
 				(font
@@ -3152,16 +2582,586 @@
 			)
 		)
 		(pin "1"
-			(uuid "2f9a658f-aa11-429b-a6d5-4926f60b4765")
+			(uuid "9c45ae05-b0bf-4602-a8b7-4bbfd843945c")
 		)
 		(instances
 			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR070")
+					(unit 1)
+				)
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
 					(reference "#PWR016")
 					(unit 1)
 				)
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/c510c171-ab0c-43c9-abfc-c3740081fa14"
-					(reference "#PWR066")
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 38.1 64.77 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d204baaf-5ed8-4017-941a-288898e6c75f")
+		(property "Reference" "#PWR062"
+			(at 31.75 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 34.29 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 38.1 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2759d45e-28a3-4751-b2a5-9a52e66c2972")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR062")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 185.42 59.69 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dabcb03e-60e7-4d12-9cde-ff22d32fecbe")
+		(property "Reference" "#PWR069"
+			(at 181.61 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 189.23 59.6899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 185.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "06c26f9d-afd5-45ef-ba4d-6983b4458a8a")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR069")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 88.9 59.69 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9cecdfd-60df-40ac-a05a-591d4bba62e2")
+		(property "Reference" "#PWR065"
+			(at 85.09 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 92.71 59.6899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 88.9 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "58ffa637-2cf5-4ecc-9cdb-5849e9b60813")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR065")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 134.62 57.15 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0512ff3-ac86-48f0-956d-d71aa2d422af")
+		(property "Reference" "#PWR067"
+			(at 128.27 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 130.81 57.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 134.62 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e633415-6848-4a24-9991-f6b0573e563b")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR067")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 95.25 144.78 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0b1690c-3a72-4a3b-9a53-0b1e49bebde2")
+		(property "Reference" "LI9"
+			(at 96.8375 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 96.8375 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_PLCC-2_3.4x3.0mm_AK"
+			(at 95.25 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 95.25 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b64b724f-8fda-4ebe-9fbc-8731d6c1ae30")
+		)
+		(pin "2"
+			(uuid "c0407432-9db5-4486-a4cc-b2f4fe74662e")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "LI9")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "LI3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 26.67 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f402ea8c-b3f0-45bd-84c2-447d40254979")
+		(property "Reference" "LI7"
+			(at 25.0825 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 25.0825 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_PLCC-2_3.4x3.0mm_AK"
+			(at 26.67 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 26.67 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 26.67 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66ab84f3-4b40-4d15-9bbb-e0aaeb37fe55")
+		)
+		(pin "2"
+			(uuid "f2681523-ec74-406e-93f8-ad3b697e16c7")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "LI7")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "LI1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 38.1 57.15 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f910b568-2485-4690-bded-7284eb0ba229")
+		(property "Reference" "#PWR061"
+			(at 31.75 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 34.29 57.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 38.1 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24557f41-53f2-407a-b975-042876c53812")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR061")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 35.56 152.4 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd005e9c-17e4-4513-a78f-6318d97c21e5")
+		(property "Reference" "#PWR060"
+			(at 29.21 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 31.75 152.3999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 35.56 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7c43999-a8dd-4838-9416-dfd43afb0ef2")
+		)
+		(instances
+			(project "BUCKY_LIGHT"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1b529dda-39da-421a-a161-dcd5e9031d6d"
+					(reference "#PWR060")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/49f7a441-30ff-4c7b-959b-6b945cddffbf"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)

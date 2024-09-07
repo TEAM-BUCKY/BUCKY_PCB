@@ -15227,13 +15227,13 @@
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Horizontal.wrl"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 -12.75 -2)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 180 0 0)
 			)
 		)
 	)
@@ -17314,6 +17314,19 @@
 				(size 5 5)
 				(thickness 0.7)
 			)
+		)
+	)
+	(gr_text "MAIN -> LIGHT\n"
+		(at 167.5638 140.9192 90)
+		(layer "F.SilkS")
+		(uuid "575537d7-8789-442a-8a82-35d7a825f50c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "GND\n"

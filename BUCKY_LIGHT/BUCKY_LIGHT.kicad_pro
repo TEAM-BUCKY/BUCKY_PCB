@@ -39,7 +39,7 @@
         "pads": {
           "drill": 0.0,
           "height": 0.95,
-          "width": 0.8
+          "width": 0.875
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -509,9 +509,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "BUCKY_LIGHT.step",
+      "step": "../../../../../../../tmp/BUCKY_LIGHT.step",
       "svg": "",
-      "vrml": "BUCKY_LIGHT.wrl"
+      "vrml": "../../../../../../../tmp/BUCKY_LIGHT.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -630,20 +630,20 @@
       "Root"
     ],
     [
-      "49f7a441-30ff-4c7b-959b-6b945cddffbf",
-      "ANALOG_COMP_6C_FRONT"
+      "a9388e83-29f9-4a4e-a6bc-a2f45dd0e202",
+      "ANALOG_COMP_FRONT"
     ],
     [
-      "c510c171-ab0c-43c9-abfc-c3740081fa14",
-      "ANALOG_COMP_6C_BACK"
+      "50b0c618-4f68-4d2c-97be-f17323f9c76e",
+      "ANALOG_COMP_RIGHT"
     ],
     [
-      "63bfe607-849d-43e2-800d-c4f4ae372b9e",
-      "ANALOG_COMP_8C_LEFT"
+      "f6e305c1-ae0c-41ae-a93e-a7e0c072a3d6",
+      "ANALOG_COMP_BACK"
     ],
     [
-      "564cbe51-805b-4c55-9ec8-e55894f27cea",
-      "ANALOG_COMP_8C_RIGHT"
+      "62601bcf-1878-4a2d-82f9-48834da7766b",
+      "ANALOG_COMP_LEFT"
     ]
   ],
   "text_variables": {}
