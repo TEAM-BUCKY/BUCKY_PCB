@@ -17019,16 +17019,6 @@
 			)
 			(uuid "1b2cbfe8-323b-4a05-85bc-1d68d9a3b95b")
 		)
-		(pin "REF_G" input
-			(at 82.55 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "48345e93-62b3-4692-906f-9b1093e87287")
-		)
 		(pin "O" output
 			(at 72.39 195.58 270)
 			(effects
@@ -17157,16 +17147,6 @@
 				(justify right)
 			)
 			(uuid "0590b2d0-38d0-4c5e-868f-bb9350389565")
-		)
-		(pin "REF_G" input
-			(at 179.07 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "a635fcac-3ce5-4099-89db-8eb761907a33")
 		)
 		(pin "O" output
 			(at 168.91 195.58 270)
@@ -17297,16 +17277,6 @@
 			)
 			(uuid "785847e0-c0f1-420e-b730-ac6b53218fd3")
 		)
-		(pin "REF_G" input
-			(at 34.29 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "a9e8aaaf-731c-471f-b80b-296963b76587")
-		)
 		(pin "O" output
 			(at 24.13 195.58 270)
 			(effects
@@ -17435,16 +17405,6 @@
 				(justify right)
 			)
 			(uuid "8c1adae8-43fc-4fb1-a9b4-8fdf014b2df4")
-		)
-		(pin "REF_G" input
-			(at 130.81 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "e01475e6-7de9-46e7-a387-a03bc2647ffd")
 		)
 		(pin "O" output
 			(at 120.65 195.58 270)
