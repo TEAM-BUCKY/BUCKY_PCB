@@ -5,8 +5,8 @@
 	(layer "F.Cu")
 	(descr "TSSP96038TR-2")
 	(tags "Integrated Circuit")
-	(property "Reference" "IC**"
-		(at 0 0.45 0)
+	(property "Reference" "S**"
+		(at 0 -5.08 0)
 		(layer "F.SilkS")
 		(uuid "c55f347e-ee70-4fa6-b5b4-81ad88901fbd")
 		(effects
@@ -166,36 +166,6 @@
 		(uuid "b31337c8-1654-46dc-b2f6-69bd60c0579b")
 	)
 	(fp_line
-		(start -2 3.5)
-		(end -2 3.5)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "7b7cde64-9c7b-44a1-a64c-ef29945789b8")
-	)
-	(fp_line
-		(start -2 3.5)
-		(end -2 3.5)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "d42fd345-0c40-44b8-89ca-f3129f47670d")
-	)
-	(fp_line
-		(start -1.9 3.5)
-		(end -1.9 3.5)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "88a8318a-55d0-4354-82e7-de84c0dc5610")
-	)
-	(fp_line
 		(start 3 2.65)
 		(end 3 2.65)
 		(stroke
@@ -294,39 +264,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "d1bf1b2a-fc5d-4815-af95-f769dc2af980")
-	)
-	(fp_arc
-		(start -2 3.5)
-		(mid -1.95 3.45)
-		(end -1.9 3.5)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "abafc6de-dfb9-475c-8447-f8c90806c1ed")
-	)
-	(fp_arc
-		(start -1.9 3.5)
-		(mid -1.95 3.55)
-		(end -2 3.5)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "75dd33cc-6b7f-4fc3-93ee-1ab58a077c89")
-	)
-	(fp_arc
-		(start -1.9 3.5)
-		(mid -1.95 3.55)
-		(end -2 3.5)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "8fdd4482-6b08-4108-93e1-9ef9b7213671")
 	)
 	(fp_line
 		(start -4.75 -3.65)
